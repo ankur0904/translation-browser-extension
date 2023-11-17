@@ -1,3 +1,5 @@
+[a.webm](https://github.com/ankur0904/translation-browser-extension/assets/98346896/a7bbeacc-0bd3-46b0-b5bd-bdc7fb877432)
+
 # Setup the project locally
 
 ## Requirements for Local Installation
