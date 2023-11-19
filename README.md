@@ -37,7 +37,7 @@
         HUGGING_FACE_API_KEY=<API_KEY>
     ```
 
-4. **Run the Browser**
+4. **Run the Extension**
 
     > Make sure you are in the root of the `Browser` directory.
 
@@ -64,4 +64,5 @@
 
 7. **Done 🎉**
 
-*Now you can use the extension in your browser.*
+*Now you can use the extension in your browser 😊😊😊*
+
